@@ -56,6 +56,38 @@ O sistema é baseado em um **microcontrolador Arduino** (ou equivalente), que or
 | Buzzer ESQUERDO | D12 | `BUZZER_ESQ` | Saída Digital (PWM via `tone`) |
 | Potenciômetro (Analog In) | A5 | `PINO_POT` | Entrada Analógica |
 
+## 💻 Simulação e Protótipo Virtual (Tinkercad)
+
+Para visualizar, simular ou duplicar o circuito e o código de forma interativa, utilize o link do nosso protótipo virtual criado no Autodesk Tinkercad Circuits.
+
+| Plataforma | Link de Acesso |
+| :--- | :--- |
+| **Tinkercad Circuits** | [Acesse aqui o Protótipo TYREZIA](https://www.tinkercad.com/things/ay2kKYIZBEG-oculos-para-deficientes-visuais-av2-sistemas-digitais?sharecode=aVM2jFpdQ1QjEHgkH_xUzuhFRDBdHUYiTQKXp0c-ug4) |
+
+## 🖼️ Galeria do Projeto
+
+### 📸 Protótipo Físico
+
+<div align="center">
+
+<img src="./prototipo.png" alt="Protótipo Físico do TYREZIA" style="max-width: 100%; height: auto;">
+
+_Foto de alta resolução do protótipo do dispositivo TYREZIA montado._
+
+</div>
+
+---
+
+### 📉 Visão Esquemática
+
+<div align="center">
+
+<img src="./esquematico.png" alt="Diagrama Esquemático ou Fritzing do Circuito" style="max-width: 100%; height: auto;">
+
+_Diagrama de conexão (Ex: Fritzing ou Esquemático Eletrônico) que detalha a pinagem e interconexão dos componentes._
+
+</div>
+
 ## ⚙️ Implementação (Sketch Arduino C++)
 
 O código a seguir é a implementação do firmware de controle.
