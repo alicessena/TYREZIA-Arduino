@@ -70,7 +70,7 @@ Para visualizar, simular ou duplicar o circuito e o código de forma interativa,
 
 <div align="center">
 
-<img src="./prototipo.png" alt="Protótipo Físico do TYREZIA" style="max-width: 100%; height: auto;">
+<img src="./assets/prototipo.png" alt="Protótipo Físico do TYREZIA" style="max-width: 100%; height: auto;">
 
 _Foto de alta resolução do protótipo do dispositivo TYREZIA montado._
 
@@ -82,7 +82,7 @@ _Foto de alta resolução do protótipo do dispositivo TYREZIA montado._
 
 <div align="center">
 
-<img src="./esquematico.png" alt="Diagrama Esquemático ou Fritzing do Circuito" style="max-width: 100%; height: auto;">
+<img src="./assets/esquematico.png" alt="Diagrama Esquemático ou Fritzing do Circuito" style="max-width: 100%; height: auto;">
 
 _Diagrama de conexão (Ex: Fritzing ou Esquemático Eletrônico) que detalha a pinagem e interconexão dos componentes._
 
