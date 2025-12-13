@@ -194,28 +194,15 @@ SOFTWARE.
 
 ---
 
-## Equipe de Desenvolvimento TERYZIA
 
+## 🧑‍💻 Desenvolvedores e Contribuições
 
-| <img width="120" src="https://github.com/alicessena.png"> |
-|:----------------------------------------------------------:|
-| **Alice Sena** |
-| **Eletônica** |
-
-
-| <img width="120" src="https://github.com/lucassegundo2.png"> |
-|:----------------------------------------------------------:|
-| **Lucas Segundo** |
-| **Prototipagem** |
-| **[GitHub](https://github.com/lucassegundo2)** |
-
-
-
-| <img width="120" src="https://github.com/luanvfm.png"> |
-|:----------------------------------------------------------:|
-| **Luan Ventura** |
-| **Código** |
-| **[GitHub](https://github.com/luanvfm)** |
+| | | |
+|:----------------------------------------------------------:|:----------------------------------------------------------:|:----------------------------------------------------------:|
+| <img width="120" src="https://github.com/alicessena.png"> | <img width="120" src="https://github.com/lucassegundo2.png"> | <img width="120" src="https://github.com/luanvfm.png"> |
+| **Alice Sena** | **Lucas Segundo** | **Luan Ventura** |
+| Eletrônica | Prototipagem | Código (Firmware) |
+| **[GitHub](https://github.com/alicessena)** - **[LinkedIn](https://www.linkedin.com/in/alicessenapereira/)** | **[GitHub](https://github.com/lucassegundo2)** - **[LinkedIn](https://www.linkedin.com/in/lucas-segundo-44a9a7349/)** | **[GitHub](https://github.com/luanvfm)** - **[LinkedIn](https://www.linkedin.com/in/luanven/)** |
 
 ---
 
