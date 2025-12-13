@@ -6,13 +6,13 @@
 
 </div>
 
-## 🌐 Resumo do Projeto e Objetivo
+## Resumo do Projeto e Objetivo
 
 O **TYREZIA (EchoSense)** é um protótipo de sistema eletrônico embarcado de baixo custo, desenvolvido como projeto final (TCC/Projeto de Período) com o objetivo de **aumentar a autonomia e a segurança** de indivíduos com deficiência visual.
 
 O dispositivo opera como um **Óculos Guia Sonar**, utilizando a tecnologia de **sensoriamento ultrassônico dual-channel** para a **detecção e mapeamento de obstáculos em tempo real**. O feedback é fornecido através de um sistema de **alerta auditivo estéreo direcional**, substituindo a dependência da bengala de forma complementar e não invasiva.
 
-## 🔬 Arquitetura e Princípio de Funcionamento
+## Arquitetura e Princípio de Funcionamento
 
 O sistema é baseado em um **microcontrolador Arduino** (ou equivalente), que orquestra a aquisição de dados e a emissão do feedback.
 
@@ -32,7 +32,7 @@ O sistema é baseado em um **microcontrolador Arduino** (ou equivalente), que or
 
 
 
-## 🛠️ Especificação de Hardware (BOM)
+## Especificação de Hardware (BOM)
 
 | Componente | Quantidade | Função e Parâmetros Chave |
 | :--- | :--- | :--- |
@@ -44,7 +44,7 @@ O sistema é baseado em um **microcontrolador Arduino** (ou equivalente), que or
 | **Chave de Acionamento** | 1 | Chave Gangorra (liga/desliga). **Controle de energia do sistema.** |
 | **Cabos/Conectores** | Vários | Fios Jumper. **Interconexão elétrica.** |
 
-## 🔌 Mapeamento de Pinos (Pinagem I/O)
+## Mapeamento de Pinos (Pinagem I/O)
 
 | Módulo/Sinal | Pino Arduino | Variável no Sketch | Tipo de I/O |
 | :--- | :--- | :--- | :--- |
@@ -56,7 +56,7 @@ O sistema é baseado em um **microcontrolador Arduino** (ou equivalente), que or
 | Buzzer ESQUERDO | D12 | `BUZZER_ESQ` | Saída Digital (PWM via `tone`) |
 | Potenciômetro (Analog In) | A5 | `PINO_POT` | Entrada Analógica |
 
-## 💻 Simulação e Protótipo Virtual (Tinkercad)
+## Simulação e Protótipo Virtual (Tinkercad)
 
 Para visualizar, simular ou duplicar o circuito e o código de forma interativa, utilize o link do nosso protótipo virtual criado no Autodesk Tinkercad Circuits.
 
@@ -64,9 +64,9 @@ Para visualizar, simular ou duplicar o circuito e o código de forma interativa,
 | :--- | :--- |
 | **Tinkercad Circuits** | [Acesse aqui o Protótipo TYREZIA](https://www.tinkercad.com/things/ay2kKYIZBEG-oculos-para-deficientes-visuais-av2-sistemas-digitais?sharecode=aVM2jFpdQ1QjEHgkH_xUzuhFRDBdHUYiTQKXp0c-ug4) |
 
-## 🖼️ Galeria do Projeto
+## Galeria do Projeto
 
-### 📸 Protótipo Físico
+### Protótipo Físico
 
 <div align="center">
 
@@ -78,7 +78,7 @@ _Foto de alta resolução do protótipo do dispositivo TYREZIA montado._
 
 ---
 
-### 📉 Visão Esquemática
+### Visão Esquemática
 
 <div align="center">
 
@@ -88,7 +88,7 @@ _Diagrama de conexão (Ex: Fritzing ou Esquemático Eletrônico) que detalha a p
 
 </div>
 
-## ⚙️ Implementação (Sketch Arduino C++)
+## Implementação (Sketch Arduino C++)
 
 O código a seguir é a implementação do firmware de controle.
 
@@ -200,7 +200,7 @@ void loop() {
 
 ```
 
-## 📄 Licença
+## Licença
 
 MIT License
 
@@ -227,7 +227,7 @@ SOFTWARE.
 ---
 
 
-## 🧑‍💻 Desenvolvedores e Contribuições
+## Desenvolvedores e Contribuições
 
 | | | |
 |:----------------------------------------------------------:|:----------------------------------------------------------:|:----------------------------------------------------------:|
