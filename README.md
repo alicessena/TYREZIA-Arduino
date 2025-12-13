@@ -1,7 +1,13 @@
-# 👓 TYREZIA - Óculos Guia Sonar
+<div align="center">
+
+<img src="./assets/logo.png" alt="TYREZIA Logo"/>
+
+#  TYREZIA - Óculos Guia Sonar
+
+</div>
 
 ## ✨ Descrição do Projeto
-O **EchoSense** é um projeto de eletrônica e programação desenvolvido como trabalho de conclusão de curso / projeto de faculdade.  
+O **EchoSense** é um projeto de eletrônica e programação desenvolvido como trabalho de conclusão de período / projeto de faculdade.  
 O objetivo é criar um dispositivo de **baixo custo** para auxiliar pessoas com deficiência visual na **detecção de obstáculos em tempo real**, fornecendo **feedback auditivo direcional**.
 
 O sistema utiliza **dois sensores ultrassônicos** (esquerdo e direito) para medir a distância de objetos.  
@@ -28,6 +34,8 @@ Essas informações são convertidas em alertas sonoros por meio de **buzzers es
 | Buzzer Ativo/Passivo          | 2         | Emitirão os alertas estéreo                     |
 | Potenciômetro (10kΩ)          | 1         | Controle de frequência sonora                   |
 | Fios Jumper                   | Vários    | Para conexões                                   |
+| Bateria 9V                    | 1         | Para Energia do Sistema                         |
+| Chave Gangorra                | 1         | Para Controle de Energia                        |
 
 ---
 
