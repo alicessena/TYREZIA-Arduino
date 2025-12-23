@@ -204,7 +204,7 @@ void loop() {
 
 MIT License
 
-Copyright (c) 2025 Alice Sena, Lucas Segundo e Luan Ventura
+Copyright (c) 2025 Alice Sena
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -239,4 +239,4 @@ SOFTWARE.
 ---
 
 <div align="center">
-    <sub>Desenvolvido por Alice Sena, Lucas Segundo e Luan Ventura - 2024</sub>
+    <sub>Desenvolvido por Alice Sena, Lucas Segundo e Luan Ventura - 2025</sub>
